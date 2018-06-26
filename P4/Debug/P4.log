@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\haus\source\repos\höma\p4\main.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\haus\source\repos\höma\p4\main.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\haus\source\repos\höma\p4\main.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\haus\source\repos\höma\p4\main.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\haus\source\repos\höma\p4\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\haus\source\repos\höma\p4\main.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  P4.vcxproj -> C:\Users\Haus\source\repos\Höma\Debug\P4.exe
